@@ -1,0 +1,6 @@
+{
+    // You can also use "info", "warn", etc.
+    log_level: "error", 
+    
+    endpoint: "http://localhost:8080"
+}
